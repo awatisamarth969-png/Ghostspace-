@@ -1,0 +1,13 @@
+<resources>
+    <!-- Premium GhostSpace Obsidian & Neon Purple Palette -->
+    <color name="ghost_obsidian">#0A0812</color>
+    <color name="ghost_surface">#120D1F</color>
+    <color name="ghost_surface_variant">#1C142E</color>
+    <color name="ghost_purple_primary">#A855F7</color>
+    <color name="ghost_purple_dark">#7E22CE</color>
+    <color name="ghost_purple_light">#C084FC</color>
+    <color name="ghost_accent_glow">#9333EA</color>
+    <color name="ghost_white">#F8FAFC</color>
+    <color name="ghost_text_muted">#94A3B8</color>
+    <color name="ghost_error">#EF4444</color>
+</resources>

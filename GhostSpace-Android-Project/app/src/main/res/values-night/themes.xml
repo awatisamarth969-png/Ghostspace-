@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.GhostSpace" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#050308</item>
+        <item name="android:navigationBarColor">#050308</item>
+        <item name="android:windowBackground">#050308</item>
+    </style>
+</resources>
